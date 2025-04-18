@@ -1,0 +1,6 @@
+TEMP
+.DS_Store
+clear_ds-store.py
+test.py
+__pycache__
+account.json
